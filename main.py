@@ -1572,7 +1572,7 @@ class Ui_MainWindow(object):
         self.home_news_list.setSortingEnabled(False)
         self.home_news_list.setSortingEnabled(__sortingEnabled)
         self.tabWidget.setTabText(self.tabWidget.indexOf(self.home_tab), _translate("MainWindow", "Tab 1"))
-        self.search_bar.setPlaceholderText(_translate("MainWindow", " Search any word or phrase"))
+        self.search_bar.setPlaceholderText(_translate("MainWindow", " Search for any news topic"))
         self.popular_label.setText(_translate("MainWindow", "Popular"))
         self.popular1.setText(_translate("MainWindow", "PushButton"))
         self.popular5.setText(_translate("MainWindow", "PushButton"))
