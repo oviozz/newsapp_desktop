@@ -1563,7 +1563,7 @@ class Ui_MainWindow(object):
         self.category = CategoryNews()
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "News App"))
         self.divider.setText(_translate("MainWindow", "_______"))
         self.divider_2.setText(_translate("MainWindow", "_______"))
         self.divider_3.setText(_translate("MainWindow", "_______"))
