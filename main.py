@@ -1634,7 +1634,8 @@ class Ui_MainWindow(object):
 
     def search_history(self):
         history = HistorySearch()
-        history.add_search(self.search_bar.text(), self.history_search_list)
+        if self.search_bar.text():
+            history.add_search(self.search_bar.text(), self.history_search_list)
 
 
     def media_navigation(self, channel_button):
