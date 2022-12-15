@@ -1,4 +1,4 @@
-# newsapp_desktop
+# newsapp_desktop (Download link: https://drive.google.com/file/d/14lgPYktaYW2JaZfwQRTofTAbHlo_Q3PQ/view?usp=sharing)
 
 ![image](https://user-images.githubusercontent.com/42685801/207573880-eac45ab1-726b-41f6-bca4-11b0255c64fb.png)
 ![image](https://user-images.githubusercontent.com/42685801/207574213-49d50253-1266-45ed-8c58-971adc7b8bcd.png)
