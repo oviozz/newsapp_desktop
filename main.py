@@ -1651,8 +1651,8 @@ class Ui_MainWindow(object):
         weather_call.grab_temperature(self.weather_search_bar, self.search_location, self.location_description, self.temperature, self.weather_result_img, QtGui)
 
     def search_load(self):
-    if self.search_bar.text():
-        self.category_search(self.search_bar)
+        if self.search_bar.text():
+            self.category_search(self.search_bar)
 
     def category_search(self, topic):
         self.news_showcase.clear()
